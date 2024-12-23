@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameUnity\\Ninja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|d:\\gameunity\\ninja\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\health\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\pigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\pigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\statemachine\\enemyattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\enemyattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\statemachine\\enemychasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\enemychasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\statemachine\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statemachine\\enemypatrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|D:\\GameUnity\\Ninja\\assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PigController.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\PigController.cs",
+              "RelativeDocumentMoniker": "Assets\\PigController.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\PigController.cs",
+              "RelativeToolTip": "Assets\\PigController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:38:02.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyPatrolState.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\StateMachine\\EnemyPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\EnemyPatrolState.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\StateMachine\\EnemyPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\EnemyPatrolState.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:41:31.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyChaseState.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\StateMachine\\EnemyChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\EnemyChaseState.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\StateMachine\\EnemyChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\EnemyChaseState.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:41:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyAttackState.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\StateMachine\\EnemyAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StateMachine\\EnemyAttackState.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\StateMachine\\EnemyAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StateMachine\\EnemyAttackState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:40:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\Gate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gate.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\Gate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:21:13.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:38:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeadZone.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\DeadZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeadZone.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\DeadZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeadZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:34:26.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\Health\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\HealthBar.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\Health\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\HealthBar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:05:39.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\Health\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\EnemyHealth.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\Health\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\EnemyHealth.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:07:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttack.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAttack.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:51:36.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\GameUnity\\Ninja\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAjwL0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:05:39.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
